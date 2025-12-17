@@ -12,6 +12,7 @@ jupyterlab
 # Google BigQuery
 google-cloud-bigquery
 pyarrow
+db-dtypes
 
 # Tooling
 pygments
